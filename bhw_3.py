@@ -31,6 +31,3 @@ n = int(input())
 s1 = gc(g, n)
 print()
 printt(s1)
-
-#абвгдежзик
-#abcdefghij
